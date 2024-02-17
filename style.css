@@ -11,7 +11,7 @@ main {
     margin: auto;
 }
 .titulo-principal {
-    border-radius: 20;
+    border-radius: 20px;
     height: 70px;
     text-align: center;
     color: white;
