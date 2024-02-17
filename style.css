@@ -3,7 +3,7 @@ body {
     border-radius: 10px;
 }
 .geral {
-    nav-down: auto;
+    nav-down: 30px;
     background: black;
     padding: 20px;
     border-radius: 20px;
