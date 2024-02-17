@@ -6,4 +6,7 @@ main {
     background: white;
     padding: 20px;
     border-radius: 20px;
+    min-width:320px ;
+    max-width:2560px ;
+    margin: auto;
 }
