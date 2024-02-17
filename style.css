@@ -1,6 +1,9 @@
 body {
     background: #720411;
+    border-radius: 10px;
 }
 main {
     background: white;
+    padding: 20px;
+    border-radius: 20px;
 }
