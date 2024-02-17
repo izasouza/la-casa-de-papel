@@ -2,7 +2,7 @@ body {
     background: #720411;
     border-radius: 10px;
 }
-main {
+.geral {
     background: white;
     padding: 20px;
     border-radius: 20px;
@@ -11,7 +11,6 @@ main {
     margin: auto;
 }
 .titulo-principal {
-    margin-top: auto;
     border-radius: 20px;
     height: 70px;
     text-align: center;
