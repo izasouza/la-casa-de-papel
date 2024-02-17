@@ -11,6 +11,7 @@ main {
     margin: auto;
 }
 .titulo-principal {
+    margin-top: auto;
     border-radius: 20px;
     height: 70px;
     text-align: center;
