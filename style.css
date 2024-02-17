@@ -10,6 +10,10 @@ main {
     max-width:2520px ;
     margin: auto;
 }
+.titulo-principal {
+    color: white;
+    background: black;
+}
 img {
     width: 100%;
 }
