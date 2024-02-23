@@ -1,10 +1,10 @@
 .cabeçalho {
-    text-align: center;
     border-radius: 20px;
     background-color: #000000;
     color: white;
 }
 
 .cabeçalho-imagem {
+    text-align: center;
     width: 35%;
 }
