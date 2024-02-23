@@ -20,7 +20,7 @@ body {
     background: black;
 }
 img {
-    display: inline-block;
+    display: inline;
     width: 100%;
 }
 .imgdefundo {
