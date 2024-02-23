@@ -32,6 +32,6 @@ p {
     padding-left: 15px;
 }
 .armas {
-    align-items: start;
+    top: 50px;
     padding-left: 950px;
 }
