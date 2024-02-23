@@ -21,8 +21,13 @@ body {
     background: black;
 }
 img {
-    width: 45%;
     display: inline
+}
+.foto {
+    width: 45%;
+}
+.armas{
+    width: 50%;
 }
 p {
     color: white;
