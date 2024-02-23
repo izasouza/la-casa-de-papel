@@ -19,7 +19,7 @@ body {
     background: black;
 }
 img {
-    padding: 15px;
+    padding: 0 15px 0;
     width: 100%;
 }
 p {
