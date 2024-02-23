@@ -4,7 +4,7 @@ body {
 }
 .geral {
     margin-top: 35px;
-    background: black;
+    background: rgb(145, 110, 110);
     padding: 20px;
     border-radius: 20px;
     min-width:260px ;
