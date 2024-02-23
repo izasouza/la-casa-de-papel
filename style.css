@@ -3,7 +3,6 @@ body {
     border-radius: 10px;
 }
 .geral {
-    padding-bottom: 5%;
     background: rgb(145, 110, 110);
     padding: 20px;
     border-radius: 20px;
@@ -21,7 +20,7 @@ body {
     background: black;
 }
 img {
-    display: inline
+    display: inline-block
 }
 .foto {
     width: 48%;
