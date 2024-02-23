@@ -22,10 +22,10 @@ body {
 }
 img {
     width: 100%;
+    display: inline
 }
 .imgdefundo {
     width: 45%; 
-    display: inline-block
 }
 p {
     color: white;
