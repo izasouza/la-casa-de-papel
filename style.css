@@ -23,7 +23,8 @@ img {
     width: 100%;
 }
 .imgdefundo {
-   width: 45%; 
+    align-content: first baseline;
+    width: 45%; 
 }
 p {
     color: white;
