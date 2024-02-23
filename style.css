@@ -12,6 +12,7 @@ body {
     margin: auto;
 }
 .titulo-principal {
+    display: inline;
     padding-top:10px ;
     border-radius: 20px;
     height: 70px;
@@ -20,7 +21,6 @@ body {
     background: black;
 }
 img {
-    display: inline;
     width: 100%;
 }
 .imgdefundo {
