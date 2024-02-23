@@ -21,10 +21,8 @@ body {
     background: black;
 }
 img {
+    width: 45%;
     display: inline
-}
-.imgdefundo {
-    width: 45%; 
 }
 p {
     color: white;
