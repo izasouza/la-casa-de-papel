@@ -28,7 +28,9 @@ img {
 p {
     color: white;
 }
+.foto {
+    padding-left: 200px;
+}
 .armas {
-    padding-top: 10px;
     padding-left: 950px;
 }
