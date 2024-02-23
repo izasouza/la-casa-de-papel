@@ -5,6 +5,6 @@
 }
 
 .cabeçalho-imagem {
-    align-items: center;
+    align-self: center;
     width: 35%;
 }
