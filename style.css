@@ -2,7 +2,7 @@
     border-radius: 20px;
     background-color: #000000;
     color: white;
-    display: flex;
+    display: flex; 
 }
 
 .cabeçalho-imagem {
