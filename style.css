@@ -3,6 +3,7 @@
     background-color: #000000;
     color: white;
     display: flex; 
+    justify-content: space-around;
 }
 
 .cabeçalho-imagem {
