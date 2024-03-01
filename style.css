@@ -29,4 +29,5 @@
 .visão-geral {
     background-image: linear-gradient(#000000,#720411);
     color: white;
+    display: flex;
 }
