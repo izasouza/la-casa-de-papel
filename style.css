@@ -32,4 +32,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 24px 0;
+}
+
+.visão-geral-div-conteudo {
+    width: 35%;
+
+}
+
+.visão-geral-título {
+    padding: 24px 0;
 }
