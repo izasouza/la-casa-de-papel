@@ -32,7 +32,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 15px 0;
     font-size: 25px;
 }
 
@@ -43,5 +43,5 @@
 
 .visão-geral-título {
     font-size: 40px;
-    padding: 24px 0;
+    padding: 15px 0;
 }
