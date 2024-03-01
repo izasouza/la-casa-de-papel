@@ -30,5 +30,6 @@ body {
 }
 
 .visão-geral {
+    background-image: linear-gradient(black);
     color: white;
 }
