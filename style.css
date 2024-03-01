@@ -28,3 +28,8 @@ body {
 .grupo {
     width: 35%;
 }
+
+.visão-geral {
+    color: white;
+    background-color: #000000;
+}
