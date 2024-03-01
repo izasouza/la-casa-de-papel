@@ -24,3 +24,7 @@ body {
     margin: 0 25px;
     display: inline-block;
 }
+
+.grupo {
+    width: 35%;
+}
