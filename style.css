@@ -56,6 +56,15 @@
     padding: 24px 0;
 }
 
+.elenco-titulo{
+    text-align: center;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 40px;
+}
+
 .toquio-imagem {
-    
+
 }
