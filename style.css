@@ -40,6 +40,10 @@
     align-items: center;
     padding: 24px 0;
     font-size: 25px;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
 }
 
 .visão-geral-div-conteudo {
