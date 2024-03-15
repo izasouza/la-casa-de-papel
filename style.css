@@ -63,6 +63,7 @@
 .elenco-titulo{
     color: white;
     text-align: center;
+    padding: 50px, 0;
     font-family: "Teko", sans-serif;
     font-optical-sizing: auto;
     font-weight: 450;
@@ -75,5 +76,5 @@
 }
 
 .elenco-icone {
-    width: 3%
+    width: 2%
 }
