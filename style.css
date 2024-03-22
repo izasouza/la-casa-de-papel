@@ -85,7 +85,7 @@
     width: 10%
 }
 
-.elenco-todos { 
+.elenco-todos{ 
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20% 20% 20% 20%
 }
