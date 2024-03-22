@@ -66,13 +66,12 @@
     padding: 16px 0;
 }
 
-.toquio-imagem { 
-}
-
-.rio-imagem {
+.elenco-imagem{
+    width: 120px;
 }
 
 .elenco-icone {
+    padding: 4px 8px;
     width: 10%
 }
 
