@@ -1,95 +1,64 @@
 *{
-    margin: 0
+    margin: 0;
+    padding: 0;
 }
-* {
-    padding: 0
+body {
+    font-family: 'Poppins', sans-serif;
 }
-.cabeçalho {
-    font-size: 32px;
-    background-color: #000000;
+.cabecalho {
+    background-color: #424E61;
     color: white;
-    display: flex; 
+    display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 10px
+    padding: 24px 0;
 }
 
-.cabeçalho-imagem {
-    width: 35%;
+.cabecalho-imagem{
+    width: 10%;
 }
-.cabeçalho-lista-item {
-    text-align: center;
-    font-size: 35px;
-    margin: 0 25px;
+
+.cabecalho-lista-item{
     display: inline-block;
-    font-family: "Anton", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    margin: 0 16px;
+    font-size: 16px;
 }
 
-.grupo {
-    padding-left: 75px;
-    width: 20%;
+.escola-imagem{
+    width: 25%;
 }
 
-.visão-geral {
-    background-image: linear-gradient(#000000, #420608);
-    color: white;
+.escola{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
-    font-size: 27px;
-    font-family: "Teko", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 450;
-    font-style: normal;
 }
 
-.visão-geral-div-conteudo {
+.escola-div-conteudo{
     width: 35%;
-
 }
 
-.visão-geral-título {
-    font-size: 40px;
+
+.escola-titulo{
     padding: 24px 0;
 }
 
-.elenco{
-    background-image: linear-gradient(#420608, #720411);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.estudante{
     padding: 24px 0;
 }
+.estudante-imagem{
+    width: 120px;
+}
 
-.elenco-titulo{
-    color: white;
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.estudante-div{
     text-align: center;
-    padding: 24px, 0;
-    font-family: "Teko", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 450;
-    font-style: normal;
-    font-size: 60px;
-}
-
-.elenco-div {
-    text-align: center;
-}
-
-.toquio-imagem {
-}
-
-.rio-imagem {
-}
-
-.elenco-icone {
-    width: 10%
-}
-
-.elenco-todos { 
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20%
+    padding: 16px 0;
 }
