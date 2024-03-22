@@ -76,11 +76,9 @@
 }
 
 .toquio-imagem {
-    height: 25%
 }
 
 .rio-imagem {
-    height: 25%
 }
 
 .elenco-icone {
@@ -89,5 +87,5 @@
 
 .elenco-todos { 
     display: grid;
-    grid-template-columns: 30% 30% 30% 30% 30% 30% 30% 30%
+    grid-template-columns: 20% 20% 20% 20%
 }
