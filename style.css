@@ -87,7 +87,7 @@
     width: 2%
 }
 
-.estudante-todos { 
+.elenco-todos { 
     display: grid;
     grid-template-columns: 30% 30% 30% 30% 30% 30% 30% 30%
 }
