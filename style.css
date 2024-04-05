@@ -85,3 +85,8 @@
     padding: 4px 8px;
     width: 24px
 }
+
+.elenco-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
