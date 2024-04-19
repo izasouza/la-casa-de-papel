@@ -77,7 +77,14 @@
     height: 200px;
     width: 120px
 }
-
+#visão-geral{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
 .elenco-nome{
     color: white;
 }
