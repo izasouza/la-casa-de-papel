@@ -17,7 +17,7 @@
 .cabeçalho-imagem {
     width: 35%;
 }
-.cabeçalho-lista-item:hover {
+.cabeçalho-lista-item {
     text-align: center;
     font-size: 35px;
     margin: 0 25px;
@@ -100,4 +100,8 @@
     height: 60px;
     padding: 12px 0;
    
+}
+
+li a:hover {
+    color: #000000;
 }
