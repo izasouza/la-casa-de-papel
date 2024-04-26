@@ -17,7 +17,7 @@
 .cabeçalho-imagem {
     width: 35%;
 }
-.cabeçalho-lista-item {
+.cabeçalho-lista-item:hover {
     text-align: center;
     font-size: 35px;
     margin: 0 25px;
